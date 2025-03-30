@@ -3,5 +3,6 @@
 
 int main(void)
 {
-	while(1);
+	printf("asdasdasd\n");
+	printf("asda978907987sdasd\n");
 }
